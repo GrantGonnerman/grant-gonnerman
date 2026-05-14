@@ -8,8 +8,8 @@
 - **[CNN Lung Cancer Classification](https://github.com/GrantGonnerman/cnn-lung-cancer-classification)**  
   Built a Convolutional Neural Network achieving **97% accuracy** classifying lung cancer types from CT scans.
 
-- **[Telecom Customer Churn with NLP](https://github.com/GrantGonnerman/telecom-customer-churn-nlp)**  
-  Improved churn prediction (F1-score **0.82**) by integrating tabular data with customer feedback sentiment analysis.
+- **[Diabetes Classification](https://github.com/GrantGonnerman/diabetes-classification)**  
+  Developed modular ML pipelines (XGBoost, LightGBM, CatBoost) with full **MLflow** experiment tracking to predict diabetes risk.
 
 - **[Mental Health Sentiment Analysis](https://github.com/GrantGonnerman/mental-health-sentiment-analysis)**  
   Applied NLP techniques to classify sentiment in mental health-related text for potential early intervention insights.
