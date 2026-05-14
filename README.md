@@ -20,7 +20,7 @@
 - **[Website Phishing Detection](https://github.com/GrantGonnerman/website-phishing-detection)**  
   Developed classification models to detect phishing websites, supporting cybersecurity applications.
 
-  - **[NFL Win-Loss Prediction 2025](https://github.com/GrantGonnerman/nfl-win-loss-prediction-2025)**  
+- **[NFL Win-Loss Prediction 2025](https://github.com/GrantGonnerman/nfl-win-loss-prediction-2025)**  
   Built machine learning models to predict NFL game outcomes using historical team statistics, advanced feature engineering, and ensemble methods.
 
 ### Technical Skills
