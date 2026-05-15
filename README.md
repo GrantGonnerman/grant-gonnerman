@@ -1,7 +1,11 @@
 # Hi, I'm Grant Gonnerman 👋
 
 **Aspiring Data Scientist** | MS Analytics (Machine Learning focus, GPA 4.0) | BA Computer & Data Science (GPA 3.52)  
-2+ years as P/C Competitive Analyst | Turning data into actionable insights with Python, SQL, and ML.
+2+ years as P/C Competitive Analyst | Turning data into actionable insights with Python, R, SQL, and ML.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/grant-gonnerman/) | [Resume](Gonnerman%2C%20G_Resume.pdf) | Email: gonnerman.grant@gmail.com
+
+---
 
 ### Featured Projects
 
@@ -30,7 +34,3 @@
 **NLP**: Text preprocessing, TF-IDF, sentiment analysis  
 **MLOps**: MLflow, Optuna  
 **Visualization**: Matplotlib, Seaborn, Tableau, Power BI
-
----
-
-🔗 [LinkedIn](https://www.linkedin.com/in/grant-gonnerman/) | [Resume](Gonnerman%2C%20G_Resume.pdf) | Email: gonnerman.grant@gmail.com
