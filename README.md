@@ -33,4 +33,4 @@
 
 ---
 
-🔗 [LinkedIn](https://www.linkedin.com/in/grant-gonnerman/) | [Resume](link) | Email: gonnerman.grant@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/grant-gonnerman/) | [Resume](Gonnerman%2C%20G_Resume.pdf)) | Email: gonnerman.grant@gmail.com
