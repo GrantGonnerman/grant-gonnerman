@@ -9,6 +9,9 @@
 
 ### Featured Projects
 
+- **[Credit Card Customer Attrition](https://github.com/GrantGonnerman/credit-card-customer-churn-app)**  
+  Built ensemble models to predict customer churn, identifying key behavioral drivers for retention strategies, and deployed it as an interactive Streamlit web    application.
+
 - **[CNN Lung Cancer Classification](https://github.com/GrantGonnerman/cnn-lung-cancer-classification)**  
   Built a Convolutional Neural Network achieving **97% accuracy** classifying lung cancer types from CT scans.
 
@@ -17,9 +20,6 @@
 
 - **[Mental Health Sentiment Analysis](https://github.com/GrantGonnerman/mental-health-sentiment-analysis)**  
   Applied NLP techniques to classify sentiment in mental health-related text for potential early intervention insights.
-
-- **[Credit Card Customer Attrition](https://github.com/GrantGonnerman/credit-card-customer-attrition)**  
-  Built ensemble models to predict customer churn, identifying key behavioral drivers for retention strategies.
 
 - **[Website Phishing Detection](https://github.com/GrantGonnerman/website-phishing-detection)**  
   Developed classification models to detect phishing websites, supporting cybersecurity applications.
